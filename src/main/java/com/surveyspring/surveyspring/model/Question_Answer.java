@@ -27,6 +27,7 @@ public class Question_Answer {
     private Answer answer;
 
 
+
     public Question_Answer() {}
 
     public Question_Answer(long id_question, long id_answer) {
